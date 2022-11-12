@@ -1,0 +1,7 @@
+.nav-element{
+    cursor: pointer;
+}
+
+#homeURL, #productsURL, #servicesURL, #studioURL, #newsURL, #spotlightURL, #sun {
+    cursor: pointer;
+} 
